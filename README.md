@@ -1,4 +1,4 @@
-### Test Automation using deepeval and Pytest 
+## Test Automation using deepeval and Pytest 
 
 ### Features:
 - Test Automation using deepeval and Pytest using a locally running gemma3:1b model on Ollama which is a Local LLM Management Framework
@@ -6,7 +6,7 @@
 - Used some base LLM evaluation metrics like `AnswerRelevancy` , `Bias` and `Toxicity`
 
 
-### How to Run tests?
+### How to Run ?
 - Clone the project 
 - Download and install Ollama tool and gemma3:1b https://ollama.com/library/gemma3 model
 - Make sure your locall ollama instance is up and running the gemma3 model 
