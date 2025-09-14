@@ -1,3 +1,4 @@
 deepeval
 ollama
 pytest
+pytest-html
