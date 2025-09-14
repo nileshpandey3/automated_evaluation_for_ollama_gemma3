@@ -13,8 +13,10 @@
 - Run either `pytest -s --html report.html` OR `deepeval test run ./`
 
 ### Example Pytest Report
-![Test Report Screenshot](html_report_screenshot.png)
+![Pytest Report](html_report_screenshot.png)
 
+### Example DeepEval Test Report
+![DeepEval Test Report](deepeval_test_report_screenshot.png)
 
 ### References:
 - https://deepeval.com/docs/getting-started
